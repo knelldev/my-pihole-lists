@@ -1,2 +1,19 @@
-id,address,enabled,date_added,date_modified,comment,date_updated
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1585426667,1593348722,Default,1609016914
+id,address,enabled,date_added,date_modified,comment
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1589395476,1589395476,"Migrated from /etc/pihole/adlists.list"
+2,https://mirror1.malwaredomains.com/files/justdomains,1,1589395476,1589395476,"Migrated from /etc/pihole/adlists.list"
+3,https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt,1,1589395476,1589395476,"Migrated from /etc/pihole/adlists.list"
+4,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt,1,1589395476,1589395476,"Migrated from /etc/pihole/adlists.list"
+5,http://sysctl.org/cameleon/hosts,1,1589396261,1589396261,""
+6,https://hosts-file.net/ad_servers.txt,1,1589396308,1589396308,""
+7,https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist,1,1589396312,1589396312,""
+8,https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/appads.txt,1,1589396313,1589396313,""
+9,https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/Germany.txt,1,1589396314,1589396314,""
+10,https://hosts-file.net/grm.txt,1,1589396314,1589396314,""
+11,https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts,1,1589396314,1589396314,""
+12,https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts,1,1589396314,1589396314,""
+13,https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts,1,1589396314,1589396314,""
+14,https://v.firebog.net/hosts/static/w3kbl.txt,1,1589396314,1589396314,""
+15,https://adaway.org/hosts.txt,1,1589396314,1589396314,""
+16,https://v.firebog.net/hosts/AdguardDNS.txt,1,1589396314,1589396314,""
+17,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt,1,1589396314,1589396314,""
+18,https://v.firebog.net/hosts/Easylist.txt,1,1589396315,1589396315,""
